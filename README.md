@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/UTMEKQJk6hLy9OnHHl/giphy-downsized-large.gif">
 </p>
 
-[![Build Status](https://travis-ci.org/chili-epfl/leap_synchronised.svg?branch=master)](https://travis-ci.org/chili-epfl/leap_synchronised)
+[![Build Status](https://travis-ci.com/chili-epfl/leap_synchronised.svg?branch=master)](https://travis-ci.com/chili-epfl/leap_synchronised)
 
 # Obtain data from the Leap Motion Sensor synchronised with the Wacom tablet
 
