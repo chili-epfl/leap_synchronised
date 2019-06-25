@@ -4,7 +4,7 @@
 
 [![Build Status](https://travis-ci.com/chili-epfl/leap_synchronised.svg?branch=master)](https://travis-ci.com/chili-epfl/leap_synchronised)
 
-# Obtain data from the Leap Motion Sensor synchronised with the Wacom tablet
+# Obtain data from the Leap Motion Sensor Synchronised with the Wacom Tablet
 
 This repository contains the Python code for obtaining data from the Leap Motion sensor **synchronised** with the data from the Wacom tablet. This synchronisation is necessary for integrating LeapMotion and Wacom recordings since the Wacom has a higher frequency than the LeapMotion. The LeapMotion recordings contain the coordinates for the hands, fingers, wrists and elbows. 
 The code for obtaining the corresponding data from the Wacom tablet can be found at ```asselbor/tegami``` (```leap-wacom``` branch). This data contains the x-y coordinates for each stroke along with the time and pressure coordinates. The code has been tested and run on a 64-bit system. 
