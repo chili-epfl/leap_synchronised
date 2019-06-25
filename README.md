@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/UTMEKQJk6hLy9OnHHl/giphy-downsized-large.gif">
+</p>
+
 # Obtain data from the Leap Motion Sensor synchronised with the Wacom tablet
 
 This repository contains the Python code for obtaining data from the Leap Motion sensor **synchronised** with the data from the Wacom tablet. This synchronisation is necessary for integrating LeapMotion and Wacom recordings since the Wacom has a higher frequency than the LeapMotion. The LeapMotion recordings contain the coordinates for the hands, fingers, wrists and elbows. 
