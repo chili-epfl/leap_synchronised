@@ -1,4 +1,4 @@
-# Obtain data from the Leap Motion Sensor Synchronised with the Wacom Tablet
+# Real Time Synchronisation of Leap Motion Controller with Wacom Tablet
 
 [![Build Status](https://travis-ci.com/chili-epfl/leap_synchronised.svg?branch=master)](https://travis-ci.com/chili-epfl/leap_synchronised)
 
